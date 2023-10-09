@@ -1,0 +1,1 @@
+results = model.predict(source="0",stream="True")
